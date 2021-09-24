@@ -1,0 +1,137 @@
+body {
+    background-color: rgb(238, 169, 122);
+
+}
+.a {
+    color: black;
+    padding-left: 40%;
+}
+
+.h4 {
+    text-shadow: 2px 2px 1px grey;
+    font-size: 20px;
+}
+
+.circle>.gambar-saya {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.circle {
+    max-width: 500px;
+    width: 200px;
+    max-height: 500px;
+    height: 200px;
+    background-color: rgb(243, 197, 220);
+    border-radius: 50%;
+    margin: auto;
+}
+
+.mi{
+    font-weight: 300;
+    font-size: 20px;
+    background-color: rgb(243, 193, 128);
+}
+
+.da{
+    color: rgb(243, 161, 53);
+    background-color: rgb(141, 86, 13);
+    padding-left: 46%;
+    font-size: 30px;
+}
+
+.name {
+    padding-left: 2%; 
+    width: 58%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bahasa {
+    width: 60%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.pa{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+.er{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+.re{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+.ji{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-size: 20px;
+}
+
+:root {
+    --warna: rgb(243, 161, 53);
+    --latar: rgb(141, 86, 13);
+    --ukuran: 30px;
+    --padding: 45%;
+}
+
+.lala{
+    color: var(--warna);
+    padding-left: 43%;
+    font-size: var(--ukuran);
+    background-color:  var(--latar);
+    line-height: auto;
+}
+
+
+.ca{
+    color: var(--warna);
+    padding-left: 37%;
+    font-size: var(--ukuran);
+    background-color:  var(--latar);
+    line-height: auto;
+}
+
+.ar {
+    color: var(--warna);
+    padding-left: var(--padding);
+    font-size: var(--ukuran);
+    background-color:  var(--latar);
+    line-height: auto;
+}
+
+.vi {
+    padding-left: 43%;
+    color: var(--warna);
+    background-color: var(--latar);
+    font-size: var(--ukuran);
+    line-height: auto;
+}
+
+.wa {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+
+.ok{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 20px;
+}
+
+.hh {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding-left: 2%;
+}
+
+
+
+
