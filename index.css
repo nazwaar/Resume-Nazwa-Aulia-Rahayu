@@ -4,7 +4,7 @@ body {
 }
 .a {
     color: black;
-    padding-left: 40%;
+     text-align: center;
 }
 
 .h4 {
@@ -37,7 +37,7 @@ body {
 .da{
     color: rgb(243, 161, 53);
     background-color: rgb(141, 86, 13);
-    padding-left: 46%;
+    text-align: center;
     font-size: 30px;
 }
 
@@ -79,12 +79,11 @@ body {
     --warna: rgb(243, 161, 53);
     --latar: rgb(141, 86, 13);
     --ukuran: 30px;
-    --padding: 45%;
 }
 
 .lala{
     color: var(--warna);
-    padding-left: 43%;
+    text-align: center;
     font-size: var(--ukuran);
     background-color:  var(--latar);
     line-height: auto;
@@ -101,14 +100,14 @@ body {
 
 .ar {
     color: var(--warna);
-    padding-left: var(--padding);
+    text-align: center;
     font-size: var(--ukuran);
     background-color:  var(--latar);
     line-height: auto;
 }
 
 .vi {
-    padding-left: 43%;
+    text-align: center;
     color: var(--warna);
     background-color: var(--latar);
     font-size: var(--ukuran);
